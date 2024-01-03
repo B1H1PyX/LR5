@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PR5", "PR5.pyproj", "{BFD42A03-6B8D-40FB-8E5B-03136B497B15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{A8613EAE-A298-45D6-8F8F-2D16398B3E9B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PR5_2", "..\PR5_2\PR5_2.pyproj", "{39CEC9C7-D1D5-43D4-8BCB-F9655503BFF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD42A03-6B8D-40FB-8E5B-03136B497B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD42A03-6B8D-40FB-8E5B-03136B497B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CEC9C7-D1D5-43D4-8BCB-F9655503BFF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CEC9C7-D1D5-43D4-8BCB-F9655503BFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20A6EE2-6AB3-4D42-8ED9-A1D168A2AE95}
+	EndGlobalSection
+EndGlobal
